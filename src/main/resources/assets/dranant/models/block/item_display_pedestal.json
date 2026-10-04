@@ -1,0 +1,106 @@
+{
+  "textures": {
+    "particle": "dranant:block/pedestal_panel",
+    "panel": "dranant:block/pedestal_panel",
+    "orn": "dranant:block/pedestal_ornament",
+    "slab": "dranant:block/pedestal_slab"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        3,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#slab"
+        },
+        "south": {
+          "texture": "#slab"
+        },
+        "east": {
+          "texture": "#slab"
+        },
+        "west": {
+          "texture": "#slab"
+        },
+        "up": {
+          "texture": "#slab"
+        },
+        "down": {
+          "texture": "#slab"
+        }
+      }
+    },
+    {
+      "from": [
+        3,
+        3,
+        3
+      ],
+      "to": [
+        13,
+        13,
+        13
+      ],
+      "faces": {
+        "north": {
+          "texture": "#panel"
+        },
+        "south": {
+          "texture": "#panel"
+        },
+        "east": {
+          "texture": "#panel"
+        },
+        "west": {
+          "texture": "#panel"
+        },
+        "up": {
+          "texture": "#slab"
+        },
+        "down": {
+          "texture": "#slab"
+        }
+      }
+    },
+    {
+      "from": [
+        1,
+        13,
+        1
+      ],
+      "to": [
+        15,
+        16,
+        15
+      ],
+      "faces": {
+        "north": {
+          "texture": "#orn"
+        },
+        "south": {
+          "texture": "#orn"
+        },
+        "east": {
+          "texture": "#orn"
+        },
+        "west": {
+          "texture": "#orn"
+        },
+        "up": {
+          "texture": "#slab"
+        },
+        "down": {
+          "texture": "#slab"
+        }
+      }
+    }
+  ]
+}

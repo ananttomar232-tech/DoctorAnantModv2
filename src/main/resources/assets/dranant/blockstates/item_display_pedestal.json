@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dranant:block/item_display_pedestal"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "side": "dranant:block/central_shop_spawner_side",
+    "top": "dranant:block/central_shop_spawner_top",
+    "bottom": "dranant:block/central_shop_spawner_top"
+  }
+}

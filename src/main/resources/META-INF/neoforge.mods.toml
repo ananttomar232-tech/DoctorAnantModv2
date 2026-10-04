@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved (code) / 3D models CC-BY-4.0 - see CREDITS.txt"
+
+[[mods]]
+modId="dranant"
+version="2.0.0"
+displayName="Doctor Anant's Mega Clinic & The Expired Mutant Outbreak"
+authors="Doctor Anant"
+description='''
+Tycoon & boss challenge: build tiered clinics, run the dual-queue villager pharmacy and experimental lab,
+watch the Diamond Counter climb - and survive the Mutant Blood Beast created by the Expired Experimental Serum.
+"Anant Doctor karege aapke sabhi dukho ka ilaaj"
+'''
+
+[[dependencies.dranant]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.dranant]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.21.2)"
+    ordering="NONE"
+    side="BOTH"

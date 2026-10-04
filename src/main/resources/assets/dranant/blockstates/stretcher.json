@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dranant:block/stretcher",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "dranant:block/stretcher",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dranant:block/stretcher",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dranant:block/stretcher",
+      "y": 270
+    }
+  }
+}

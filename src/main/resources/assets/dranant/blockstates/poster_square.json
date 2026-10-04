@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dranant:block/poster_square",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "dranant:block/poster_square",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dranant:block/poster_square",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dranant:block/poster_square",
+      "y": 270
+    }
+  }
+}

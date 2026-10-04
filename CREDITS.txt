@@ -1,0 +1,12 @@
+Doctor Anant's Mega Clinic - 3D model credits (all CC-BY-4.0, attribution required, commercial use allowed)
+Textures, item icons and the boss model in this mod were converted from these Sketchfab downloads:
+
+- "Blood Potion" by Dude.fbx - https://sketchfab.com/Dude.fbx              -> expired_experimental_serum
+- "Low Poly Handcuffs" by hempter - https://sketchfab.com/evilonamission     -> titanium_handcuffs
+- "Medical Syringe" by Alexander Troianovskyi - https://sketchfab.com/AlexOlTroi -> universal_cure_syringe
+- "Male Lab Coat and Pants" by zeryshahid - https://sketchfab.com/zeryshahid  -> dr_anant_coat
+- "Hospital Bed" by Nakajima2500 - https://sketchfab.com/Nakajima2500         -> examination_bed
+- "structural_i from FPS creator classic" by Garbage Raccoon - https://sketchfab.com/GarbageRaccoon -> item_display_pedestal
+- "Minecraft Mutant Zombie Download Free" by jesuszomboss - https://sketchfab.com/jesuszomboss -> mutant_blood_beast
+
+Put these credits in your YouTube video description.

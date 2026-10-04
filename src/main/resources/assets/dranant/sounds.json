@@ -1,0 +1,51 @@
+{
+  "handcuff_rattle": {
+    "subtitle": "subtitles.dranant.handcuff_rattle",
+    "sounds": [
+      {
+        "name": "minecraft:block.chain.place",
+        "type": "event"
+      },
+      {
+        "name": "minecraft:item.armor.equip_chain",
+        "type": "event"
+      }
+    ]
+  },
+  "syringe_injection": {
+    "subtitle": "subtitles.dranant.syringe_injection",
+    "sounds": [
+      {
+        "name": "minecraft:item.bottle.empty",
+        "type": "event"
+      }
+    ]
+  },
+  "ground_slam": {
+    "subtitle": "subtitles.dranant.ground_slam",
+    "sounds": [
+      {
+        "name": "minecraft:entity.generic.explode",
+        "type": "event"
+      }
+    ]
+  },
+  "cash_register_chime": {
+    "subtitle": "subtitles.dranant.cash_register_chime",
+    "sounds": [
+      {
+        "name": "minecraft:block.note_block.chime",
+        "type": "event"
+      }
+    ]
+  },
+  "diamond_pop": {
+    "subtitle": "subtitles.dranant.diamond_pop",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.chime",
+        "type": "event"
+      }
+    ]
+  }
+}
